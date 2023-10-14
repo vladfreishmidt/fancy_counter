@@ -84,9 +84,6 @@ body {
   background-color: #212b06;
 }
 
-.counter__button--descrease {
-}
-
 .counter__button--increase {
   border-left: 1px solid rgba(189, 254, 0, 0.15);
 }
@@ -96,12 +93,6 @@ body {
   opacity: 0.9;
   font-size: 40px;
 }
-
-/* .counter__icon--minus {
-}
-
-.counter__icon--plus {
-} */
 
 @media (max-width: 680px) or (max-height: 730px) {
   .counter {
