@@ -3,9 +3,7 @@
  
 ` Built with vanilla JavaScript `
 
-
  # Fancy Counter
-
 
 >  **Fancy Counter** is a sleek and stylish web application that allows you to count anything you need in a fun and interactive way.
 
